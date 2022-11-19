@@ -10,7 +10,9 @@ I have created a simply currency converter. You can convert PLN into:
 - CZK
 ## How to work
 First you need to enter amount of money in PLN. Then you can select the currency from the list you want to convert into. Next you need to click the button "Prelicz" to get the result.
-![gifVideo](images/video.gif)
+
+
+![gifVideo](image/video.gif)
 # Technologies used
 - HTML
 - CSS
