@@ -1,5 +1,5 @@
 # Currency Conventer Website
-<img src="[images/Currency%20Converter.gif](https://github.com/Karolcia333/Currency-converter/blob/0742b8e376b41900ab46a4ab1faf565159414dc6/image/share.jpg)" width="250" height="250"/>
+![Currency converter](https://github.com/Karolcia333/Currency-converter/blob/0742b8e376b41900ab46a4ab1faf565159414dc6/image/share.jpg)
 # Demo
 [See currency-converter](https://karolcia333.github.io/Currency-converter/)
 # Description
