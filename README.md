@@ -1,4 +1,5 @@
 # Currency Conventer
+![Currency converter](images/share.jpg)
 # Demo
 [See currency-converter](https://karolcia333.github.io/Currency-converter/)
 # Description
