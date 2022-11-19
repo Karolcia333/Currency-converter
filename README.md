@@ -1,14 +1,14 @@
-﻿#Currency-converter
-##Demo
+# Currency Conventer
+# Demo
 [See currency-converter]()
-##Description
+# Description
 I have created a simply currency converter. You can convert PLN into:
 - EUR
 - HUF
 - CZK
-##How to works
+## How to work
 First you need to enter amount of money in PLN. Then you can select the currency from the list you want to convert into. Next you need to click the button "Prelicz" to get the result.
-##Technologie used
+# Technologies used
 - HTML
 - CSS
 - JavaScript
