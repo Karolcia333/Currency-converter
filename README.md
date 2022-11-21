@@ -15,8 +15,11 @@ First you need to enter amount of money in PLN. Then you can select the currency
 ![gifVideo](image/video.gif)
 # Technologies used
 - HTML
+- Normalize
 - CSS
 - JavaScript
 - ES6 + features
+- Flexbox
 - BEM convention
 - GIT
+- Markdown
