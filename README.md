@@ -18,7 +18,7 @@ First you need to enter amount of money in PLN. Then you can select the currency
 - Normalize
 - CSS
 - JavaScript
-- ES6 + features
+- ES6+ features
 - Flexbox
 - BEM convention
 - GIT
