@@ -1,5 +1,9 @@
 {
-
+    const welcome = () => {
+        console.log("Witam wsystkich develeperów🙂");
+    };
+}
+{
     const calculateResult = (currency, amount) => {
         const EUR = 4.75;
         const HUF = 1.17;
@@ -24,7 +28,6 @@
 
     const formSubmit = (event) => {
         event.preventDefault();
-
 
         const amountElement = document.querySelector(".js-amount");
         const currencyElement = document.querySelector(".js-currency");
