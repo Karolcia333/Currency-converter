@@ -1,7 +1,7 @@
 # Currency Conventer
 ![Currency converter](https://github.com/Karolcia333/Currency-converter/blob/0742b8e376b41900ab46a4ab1faf565159414dc6/image/share.jpg)
 # Demo
-[See currency-converter](https://karolcia333.github.io/Currency-converter/)
+[See currency-converter](https://karolinaj33.github.io/Currency-converter/)
 ![Homepage GIF](images/video.gif)
 # Description
 I have created a simply currency converter. You can convert PLN into:
