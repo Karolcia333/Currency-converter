@@ -9,7 +9,11 @@ I have created a simply currency converter. You can convert PLN into:
 - HUF
 - CZK
 ## How to work
-First you need to enter amount of money in PLN. Then you can select the currency from the list you want to convert into. Next you need to click the button "Przelicz" to get the result.
+![image](https://user-images.githubusercontent.com/80458977/217201709-24bcec9b-afbe-4b08-8c11-b48c9d59daa4.png)First you need to enter amount of money in PLN.
+
+![image](https://user-images.githubusercontent.com/80458977/217201709-24bcec9b-afbe-4b08-8c11-b48c9d59daa4.png)Then you can select the currency from the list you want to convert into.
+
+![image](https://user-images.githubusercontent.com/80458977/217201709-24bcec9b-afbe-4b08-8c11-b48c9d59daa4.png)Next you need to click the button "Przelicz" to get the result.
 
 
 ![gifVideo](image/video.gif)
